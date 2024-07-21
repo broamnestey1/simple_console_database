@@ -1,0 +1,23 @@
+{
+    "1": {
+        "id": 1,
+        "title": "ff",
+        "author": "ff",
+        "year": "ff",
+        "status": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "fff",
+        "author": "fff",
+        "year": "22",
+        "status": 1
+    },
+    "3": {
+        "id": 3,
+        "title": "fff",
+        "author": "fff",
+        "year": "222",
+        "status": 1
+    }
+}
